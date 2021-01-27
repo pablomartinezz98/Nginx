@@ -2,14 +2,14 @@
 
 # Índice
 
-1.- [Introducción] (https://github.com/pablomartinezz98/Nginx/blob/main/1.-Introducci%C3%B3n.md)
+1.- Introducción
 
-2.- [Comparativa con Apache] (https://github.com/pablomartinezz98/Nginx/blob/main/2.-Comparativa%20con%20Apache.md)
+2.- Comparativa con Apache
 
-3.- [Esquema de red] (https://github.com/pablomartinezz98/Nginx/blob/main/3.-Esquema%20de%20red.md)
+3.- Esquema de red
 
-4.- [Instalación] (https://github.com/pablomartinezz98/Nginx/blob/main/4.-Instalaci%C3%B3n.md)
+4.- Instalación
 
-5.- [Casos prácticos] (https://github.com/pablomartinezz98/Nginx/blob/main/5.-Casos%20pr%C3%A1cticos.md)
+5.- Casos prácticos
 
-6.- [Referencias] (https://github.com/pablomartinezz98/Nginx/blob/main/6.-Referencias.md)
+6.- Referencias
